@@ -87,3 +87,81 @@ p {
   width: 180px;
   animation: vanilla 1600ms linear forwards;
 }
+
+@keyframes cherry-top {
+
+  0% {
+    top: -530px;
+  }
+
+  100% {
+    top: -30px;
+  }
+
+}
+
+@keyframes cone {
+
+  0% {
+    top: -905px;
+  }
+
+  100% {
+    top: 305px;
+  }
+
+}
+
+@keyframes chocolate {
+
+  0% {
+    top: -920px;
+  }
+
+  100% {
+    top: 120px;
+  }
+
+}
+
+@keyframes mint {
+
+  0% {
+    top: -2500px;
+  }
+
+  100% {
+    top: 200px;
+  }
+
+}
+
+@keyframes vanilla {
+
+  0% {
+    top: -570px;
+  }
+
+  100% {
+    top: 50px;
+  }
+
+}
+
+@keyframes text {
+
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0;
+    filter: blur(30px);
+  }
+
+  100% {
+    opacity: 1;
+    filter: blur(0);
+  }
+
+}
