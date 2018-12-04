@@ -1,3 +1,9 @@
 html {
   font-family: "Fredoka One", sans-serif;
 }
+
+h1 {
+  color: #990073;
+  transform: rotate(-11deg);
+  text-shadow: 1px 5px 48px #e2e2e2;
+}
