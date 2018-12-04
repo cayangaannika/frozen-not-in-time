@@ -19,11 +19,6 @@ p {
   border-color: #c09;
 }
 
-.btn-ghost {
-  color: #c09;
-  border-color: #c09;
-}
-
 .btn-ghost:hover {
   color: #990073;
   border-color: #990073;
