@@ -60,3 +60,30 @@ p {
   width: 180px;
   animation: cone 600ms linear forwards;
 }
+
+.chocolate {
+  top: 120px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  width: 180px;
+  animation: chocolate 1400ms linear forwards;
+}
+
+.mint {
+  top: 200px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  width: 180px;
+  animation: mint 1000ms linear forwards;
+}
+
+.vanilla {
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  width: 180px;
+  animation: vanilla 1600ms linear forwards;
+}
