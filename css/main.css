@@ -18,3 +18,7 @@ p {
   color: #c09;
   border-color: #c09;
 }
+
+.outer-wrapper {
+  height: 500px;
+}
