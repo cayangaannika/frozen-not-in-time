@@ -2,9 +2,14 @@ html {
   font-family: "Fredoka One", sans-serif;
 }
 
+.outer-wrapper {
+  background: repeating-linear-gradient(-45deg, #b3fbff, #b3fbff 10px, #c9fcff 20px, #d4fdff 10px);
+  height: 500px;
+}
+
 h1 {
   color: #990073;
-  transform: rotate(-11deg);
+  transform: rotate(-12deg);
   text-shadow: 1px 5px 48px #e2e2e2;
 }
 
@@ -25,11 +30,6 @@ p {
   background-color: #c09;
 }
 
-.outer-wrapper {
-  height: 500px;
-  background: repeating-linear-gradient(-45deg, #b3fbff, #b3fbff 10px, #c9fcff 20px, #d4fdff 10px);
-}
-
 .text {
   transform-origin: left center;
   animation: text 2000ms linear forwards;
@@ -37,7 +37,7 @@ p {
 
 .intro {
   max-width: 19em;
-  margin-bottom: 2em;
+  margin-bottom: 1.5em;
 }
 
 .ice-cream-cone {
