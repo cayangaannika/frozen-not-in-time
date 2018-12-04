@@ -39,3 +39,24 @@ p {
   max-width: 19em;
   margin-bottom: 1.5em;
 }
+
+.ice-cream-cone {
+  min-height: 480px;
+}
+
+.cherry {
+  top: -30px;
+  left: 50%;
+  height: 180px;
+  transform: translateX(-50%);
+  animation: cherry-top 1800ms linear forwards;
+}
+
+.cone {
+  top: 305px;
+  left: 50%;
+  transform: translateX(-50%);
+  position: absolute;
+  width: 180px;
+  animation: cone 600ms linear forwards;
+}
