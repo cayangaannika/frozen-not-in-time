@@ -34,3 +34,8 @@ p {
   transform-origin: left center;
   animation: text 2000ms linear forwards;
 }
+
+.intro {
+  max-width: 19em;
+  margin-bottom: 1.5em;
+}
