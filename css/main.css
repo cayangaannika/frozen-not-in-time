@@ -7,3 +7,14 @@ h1 {
   transform: rotate(-11deg);
   text-shadow: 1px 5px 48px #e2e2e2;
 }
+
+p {
+  color: #c09;
+  transform: rotate(-4deg);
+  text-shadow: 1px 5px 48px #e2e2e2;
+}
+
+.btn-ghost {
+  color: #c09;
+  border-color: #c09;
+}
