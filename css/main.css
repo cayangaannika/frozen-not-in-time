@@ -48,14 +48,14 @@ p {
   top: -30px;
   left: 50%;
   height: 180px;
-  transform: translateX(-50%);
+  transform: translateX(-60%);
   animation: cherry-top 1800ms linear forwards;
 }
 
 .cone {
   top: 305px;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-60%);
   position: absolute;
   width: 180px;
   animation: cone 600ms linear forwards;
@@ -64,7 +64,7 @@ p {
 .chocolate {
   top: 120px;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-60%);
   position: absolute;
   width: 180px;
   animation: chocolate 1400ms linear forwards;
@@ -73,7 +73,7 @@ p {
 .mint {
   top: 200px;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-60%);
   position: absolute;
   width: 180px;
   animation: mint 1000ms linear forwards;
@@ -82,7 +82,7 @@ p {
 .vanilla {
   top: 50px;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-60%);
   position: absolute;
   width: 180px;
   animation: vanilla 1600ms linear forwards;
